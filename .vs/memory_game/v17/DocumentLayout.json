@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|c:\\trainee_projects\\vb.net memory_game\\memory_game\\memory_game\\bll\\game.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|solutionrelative:memory_game\\bll\\game.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\bll\\cardpair.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|solutionrelative:memory_game\\bll\\cardpair.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|solutionrelative:memory_game\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\bll\\card.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|solutionrelative:memory_game\\bll\\card.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D269CDC6-4FB9-47B9-8F70-E2E2922C5BB0}|memory_game\\memory_game.vbproj|solutionrelative:memory_game\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.vb",
+              "DocumentMoniker": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Bll\\Game.vb",
+              "RelativeDocumentMoniker": "memory_game\\Bll\\Game.vb",
+              "ToolTip": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Bll\\Game.vb",
+              "RelativeToolTip": "memory_game\\Bll\\Game.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:33:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardPair.vb",
+              "DocumentMoniker": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Bll\\CardPair.vb",
+              "RelativeDocumentMoniker": "memory_game\\Bll\\CardPair.vb",
+              "ToolTip": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Bll\\CardPair.vb",
+              "RelativeToolTip": "memory_game\\Bll\\CardPair.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T09:43:50.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.vb",
+              "DocumentMoniker": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Bll\\Card.vb",
+              "RelativeDocumentMoniker": "memory_game\\Bll\\Card.vb",
+              "ToolTip": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Bll\\Card.vb",
+              "RelativeToolTip": "memory_game\\Bll\\Card.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T06:50:44.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Form1.vb",
+              "RelativeDocumentMoniker": "memory_game\\Form1.vb",
+              "ToolTip": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Form1.vb",
+              "RelativeToolTip": "memory_game\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T05:09:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Form1.vb",
+              "RelativeDocumentMoniker": "memory_game\\Form1.vb",
+              "ToolTip": "C:\\Trainee_Projects\\VB.Net memory_game\\memory_game\\memory_game\\Form1.vb [Design]",
+              "RelativeToolTip": "memory_game\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T05:08:59.034Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
